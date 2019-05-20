@@ -7,5 +7,10 @@ Git is free software distributed under the GPL.
 Git tracks changes.
 1212121
 Git tracks changes.222
+hells
+
 
 Git tracks changes.
+ yes, I love git
+
+but ,I still used SVN	
